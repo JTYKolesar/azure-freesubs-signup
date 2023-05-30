@@ -15,15 +15,15 @@ This guide is meant to demonstrate a step-by-step process on how to create a FRE
   
 <h2>Procedure</h2>
 
-<h3>&#9312; Create your FREE* Azure Account</h3>
+<h3>&#9312; Creating your FREE* Azure Account</h3>
 
-Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
-- Select Start Free
-- Follow the prompt to create the account 
-     - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then
-- Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
-     - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
-
+Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
+<ol>
+<li> Select Start Free
+<li> Follow the prompt to create the account 
+  <div>- You will need to put in your credit card information to receive the free $200 of Azure credits, <b>but only for 30 days!</b>
+    <li> Once complete, click on <a href="https://azure.microsoft.com/en-us/free/">Go to Azure Portal</a> to be redirected to the Azure Dashboard.
+</ol>
 
 <p align="center">
 <img src="https://i.imgur.com/rk4SD27.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
