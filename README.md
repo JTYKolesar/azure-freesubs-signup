@@ -14,16 +14,16 @@ This guide is meant to demonstrate a step-by-step process for any beginner on ho
 - Credit Card (Required for free Azure credits)
 - Remote Desktop Connection (Windows) / Microsoft Remote Desktop (Mac)
   
-<h2>Procedure</h2>
+<h2>Step Process</h2>
 
-<h3>&#9312; Creating your FREE* Azure Account</h3>
+<h3>&#9312; Create a FREE* Azure Account</h3>
 
 Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 <ol>
 <li> Select Start Free
-<li> Follow the prompt to create the account 
+<li> Follow the prompt to create an account 
   <div>- You will need to put in your credit card information to receive the free $200 of Azure credits, <b>but only for 30 days!</b>
-    <li> Once complete, click on <a href="https://azure.microsoft.com/en-us/free/">Go to the Azure Portal</a> to be redirected to the Azure Dashboard.
+    <li> Once completed, click on <a href="https://azure.microsoft.com/en-us/free/">Go to the Azure Portal</a> to be redirected to the Azure Dashboard.
 </ol>
 
 <p align="center">
