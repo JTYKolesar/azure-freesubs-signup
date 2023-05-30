@@ -1,22 +1,21 @@
 <p align="center">
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="50%" width="50%" alt="Microsoft Azure Logo"/>
 </p>
-<h1>Microsoft Azure</h1>
-
-
+<p align="justify">
 Microsoft Azure is a comprehensive and flexible cloud computing platform that empowers businesses to build, deploy, and manage applications and services across a vast network of data centers. With its robust suite of tools and services, Azure provides organizations with the scalability, reliability, and security needed to accelerate growth, drive innovation, and achieve their digital transformation goals.<div>
-This guide will demonstrate how to create a FREE* Azure account, how to setup a WindowsOS virtual machine and how to connect to it.
+<h1>How to Setup a Subscription, Resource, and Virtual Machine in Azure</h1>
+
+This guide is meant to demonstrate a step-by-step process on how to create a FREE* Azure account, setup a Resource Group, build a Virtual Machine, and how to connect to the VM using Remote Desktop.
 
 <h2>Requirements</h2>
 
 - Computer w/ Internet Connection
-- Email Account (Microsoft email preferred)
 - Credit Card (Required for free Azure credits)
 - Remote Desktop Connection (Windows) / Microsoft Remote Desktop (Mac)
   
 <h2>Procedure</h2>
 
-<h3>&#9312; Create a FREE* Azure Account</h3>
+<h3>&#9312; Create your FREE* Azure Account</h3>
 
 Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Start Free
