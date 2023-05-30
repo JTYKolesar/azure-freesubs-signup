@@ -5,7 +5,7 @@
 
 
 Microsoft Azure is a comprehensive and flexible cloud computing platform that empowers businesses to build, deploy, and manage applications and services across a vast network of data centers. With its robust suite of tools and services, Azure provides organizations with the scalability, reliability, and security needed to accelerate growth, drive innovation, and achieve their digital transformation goals.<div>
-This guide will demonstrate how to create a FREE* Azure account, how to setup a WindowsOS virtual machine and how to access it.
+This guide will demonstrate how to create a FREE* Azure account, how to setup a WindowsOS virtual machine and how to connect to it.
 
 <h2>Requirements</h2>
 
@@ -14,15 +14,9 @@ This guide will demonstrate how to create a FREE* Azure account, how to setup a 
 - Credit Card (Required for free Azure credits)
 - Remote Desktop Connection (Windows) / Microsoft Remote Desktop (Mac)
   
-<h2>Step Procedure</h2>
-  
-<ol>
-<li>Create a FREE* Azure Account</li>
-<li>Tea</li>
-<li>Milk</li>
-</ol>
-<h2></h2>
-<h3>Step 1: Create a FREE* Azure Account</h3>
+<h2>Procedure</h2>
+
+<h3>&#9312; Create a FREE* Azure Account</h3>
 
 Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Start Free
@@ -37,7 +31,7 @@ Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
 </p>
 <hr>
 
-<h3>Step 2: Create a Resource Group</h3>
+<h3>&#9313; Create a Resource Group</h3>
 
 - Go to the search bar at the top and search "resource group"
 - Select Create Resource Group
@@ -49,7 +43,7 @@ Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
 <img src="https://i.imgur.com/Afnk87u.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 <hr>
-<h3>Step 3: Create a Storage Account</h3>
+<h3>&#9314; Create a Storage Account</h3>
 
 - Go to the search bar and search "storage account"
 - Select Create Storage Account
@@ -63,7 +57,7 @@ Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
 </p>
 
 
-<h3>Step 4: Create a Virtual Machine</h3>
+<h3>&#9315; Create a Virtual Machine</h3>
      
 - Go to the search bar and search "virtual machine"
 - Select Create, then select Azure Virtual Machine
@@ -93,7 +87,7 @@ Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
  
      
 
-<h3>Step 5: Connect to the Virtual Machine</h3>
+<h3>&#9316; Connect to the Virtual Machine</h3>
 
 - First, you will need to find the public IP address of your virtual machine
    - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
