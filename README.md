@@ -3,9 +3,9 @@
 </p>
 <p align="justify">
 Microsoft Azure is a comprehensive and flexible cloud computing platform that empowers businesses to build, deploy, and manage applications and services across a vast network of data centers. With its robust suite of tools and services, Azure provides organizations with the scalability, reliability, and security needed to accelerate growth, drive innovation, and achieve their digital transformation goals.<div>
-<h1>How to Setup a Subscription, Resource, and Virtual Machine in Azure</h1>
+<h1>Setup a Subscription, Resource, Storage and Virtual Machine in Azure</h1>
 
-This guide is meant to demonstrate a step-by-step process on how to create a FREE* Azure account, setup a Resource Group, build a Virtual Machine, and how to connect to the VM using Remote Desktop.
+This guide is meant to demonstrate a step-by-step process for any beginner on how to create a FREE* Azure account, create a Resource Group, create a Storage Account, build a Virtual Machine and how to connect to it using Remote Desktop.
 
 <h2>Requirements</h2>
 
@@ -22,11 +22,11 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <li> Select Start Free
 <li> Follow the prompt to create the account 
   <div>- You will need to put in your credit card information to receive the free $200 of Azure credits, <b>but only for 30 days!</b>
-    <li> Once complete, click on <a href="https://azure.microsoft.com/en-us/free/">Go to Azure Portal</a> to be redirected to the Azure Dashboard.
+    <li> Once complete, click on <a href="https://azure.microsoft.com/en-us/free/">Go to the Azure Portal</a> to be redirected to the Azure Dashboard.
 </ol>
 
 <p align="center">
-<img src="https://i.imgur.com/rk4SD27.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/FklBT6F.jpg" height="70%" width="70%" alt="Azure Free Account"/>
 </p>
 <hr>
 
