@@ -10,20 +10,21 @@ This guide will demonstrate how to create a FREE* Azure account, how to setup a 
 <h2>Requirements</h2>
 
 - Computer w/ Internet Connection
+- Email Account (Microsoft email preferred)
 - Credit Card (Required for free Azure credits)
-- [Windows] Remote Desktop Connection / [Mac] Microsoft Remote Desktop
+- Remote Desktop Connection (Windows) / Microsoft Remote Desktop (Mac)
   
-<h2>Step Process</h2>
+<h2>Step Procedure</h2>
   
 <ol>
-<li>Create a FREE* Microsoft Azure Account</li>
+<li>Create a FREE* Azure Account</li>
 <li>Tea</li>
 <li>Milk</li>
 </ol>
 <h2></h2>
-<h3>Step 1: Create an Azure Account</h3>
+<h3>Step 1: Create a FREE* Azure Account</h3>
 
-Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
+Create a FREE* Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Start Free
 - Follow the prompt to create the account 
      - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then
