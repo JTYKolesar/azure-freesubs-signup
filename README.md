@@ -2,10 +2,11 @@
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="50%" width="50%" alt="Microsoft Azure Logo"/>
 </p>
 <p align="justify">
-Microsoft Azure is a comprehensive and flexible cloud computing platform that empowers businesses to build, deploy, and manage applications and services across a vast network of data centers. With its robust suite of tools and services, Azure provides organizations with the scalability, reliability, and security needed to accelerate growth, drive innovation, and achieve their digital transformation goals.<div>
+Microsoft Azure is a powerful cloud platform that provides various tools and services like virtual machines, storage, AI, and easy project deployment. It helps businesses and individuals increase productivity, gain valuable insights from data, and effortlessly scale applications to meet their needs. With Azure, you can harness the potential of the cloud to drive innovation and achieve your goals with greater efficiency.
+  
 <h1>Setup a Subscription, Resource, Storage and Virtual Machine in Azure</h1>
 
-This guide is meant to demonstrate a step-by-step process for any beginner on how to create a FREE* Azure account, create a Resource Group, create a Storage Account, build a Virtual Machine and how to connect to it using Remote Desktop.
+This guide is meant to demonstrate a step-by-step process for any beginner on how to create a FREE* Azure account, create a Resource Group, a Storage Account, build a Virtual Machine and how to connect to it using Remote Desktop.
 
 <h2>Requirements</h2>
 
