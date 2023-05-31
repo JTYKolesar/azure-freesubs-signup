@@ -19,9 +19,10 @@ This guide is meant to demonstrate a step-by-step process for any beginner on ho
 <h3>&#9312; Create a FREE* Azure Account</h3>
 
 Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
-- Select Start Free
-- Follow the prompt to create an account 
-  - You will need to put in your credit card information to receive the free $200 of Azure credits, <b>but only for 30 days!</b>
+- Select "Start Free"
+- Follow the prompt to create an account.
+  - You WILL need to put in your credit card information to receive the free $200 of Azure credits!
+    <div> It will not charge you, <b>but only for 30 days!</b>
 - Once completed, click on <a href="https://azure.microsoft.com/en-us/free/">Go to the Azure Portal</a> to be redirected to the Azure Dashboard.
 
 <p align="center">
@@ -33,9 +34,10 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 - In the Search Box at the top header, type and select "Resource groups".
   - If "Resource groups" is already listed on the front page, then you can simply click on it, rather than manually searching.
-- Either click "Create" on the top left menu, or simply press Create resource group in the center of the screen.
-- Select Review + Create on the lower left
-    - For this example, we will be using RG-Lab-1 for the name and (US) West 3 for the region
+- Click "Create" on the top left menu, OR simply press "Create resource group" in the center of the screen (assuming one doesn't exist yet).
+- Name your "Resource group" to whatever you want (this example uses RG-01), AND change the Region to a location that is closest to you (this example uses (US) West US 3)).
+- Select "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
+- Click "Create".
 
 <p align="center">
 <img src="https://i.imgur.com/gza489d.jpg" height="70%" width="70%" alt="Azure Free Account"/>
