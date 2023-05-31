@@ -59,8 +59,8 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/sGDY2Im.jpg" height="70%" width="70%" alt="Azure Step 3-2"/>
 
 - Use the same resource group that was just created (this example uses **RG-01**).
+- Create a unique name for the storage account that hasn't already been taken (this example uses **saname01**).
 - Choose the same region (this example uses **(US) West US 3**).
-- Create a unique name for the storage account, for it cannot be a name already in use online (this example uses **saname01**)
 - Skip everything else and click "Review", then "Create".
 
 <img src="https://i.imgur.com/07sG8Z6.jpg" height="100%" width="100%" alt="Azure Step 3-3"/>
