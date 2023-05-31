@@ -41,7 +41,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 - Name your "Resource group" to whatever you want (this example uses **RG-01**).
 - Change the "Region" to a location that is closest to you (this example uses **(US) West US 3**).
-- Select "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
+- Skip everything else and clicl "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
 - Click "Create".
 
 <img src="https://i.imgur.com/BSiQM05.jpg" height="100%" width="100%" alt="Azure Step 2-3"/>
@@ -52,23 +52,19 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 - In the Search Box at the top header, type and select "Storage accounts".
   - If "Storage accounts" is already listed on the front page, then you can simply click on it, rather than manually searching.
   
-<img src="https://i.imgur.com/HMUaR98.jpg" height="700%" width="70%" alt="Azure Step 3-1"/>
+<img src="https://i.imgur.com/HMUaR98.jpg" height="70%" width="70%" alt="Azure Step 3-1"/>
 
 - Same with Resource Groups, click on "Create Storage account".
 
-<img src="https://i.imgur.com/sGDY2Im.jpg" height="700%" width="70%" alt="Azure Step 3-2"/>
+<img src="https://i.imgur.com/sGDY2Im.jpg" height="70%" width="70%" alt="Azure Step 3-2"/>
 
 - Use the same resource group that was just created (this example uses **RG-01**).
 - Choose the same region (this example uses **(US) West US 3**).
 - Create a unique name for the storage account, for it cannot be a name already in use online (this example uses **saname01**)
+- Skip everything else and click "Review", then "Create".
 
-<img src="https://i.imgur.com/07sG8Z6.jpg" height="700%" width="70%" alt="Azure Step 3-3"/>
-
-
-<p align="center">
-<img src="https://i.imgur.com/zhb3GHZ.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
-
+<img src="https://i.imgur.com/07sG8Z6.jpg" height="100%" width="100%" alt="Azure Step 3-3"/>
+<img src="https://i.imgur.com/wLSVgnw.jpg" height="100%" width="100%" alt="Azure Step 3-4"/>
 
 <h3>&#9315; Create a Virtual Machine</h3>
      
