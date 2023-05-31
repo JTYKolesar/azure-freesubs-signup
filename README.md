@@ -39,22 +39,31 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <img src="https://i.imgur.com/5Jo1cEg.jpg" height="64%" width="64%" alt="Azure Step 2-2"/>
 
-- Name your "Resource group" to whatever you want (this example uses **RG-01**), AND change the "Region" to a location that is closest to you (this example uses **(US) West US 3**)).
+- Name your "Resource group" to whatever you want (this example uses **RG-01**).
+- Change the "Region" to a location that is closest to you (this example uses **(US) West US 3**).
 - Select "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
 - Click "Create".
-
 
 <img src="https://i.imgur.com/BSiQM05.jpg" height="100%" width="100%" alt="Azure Step 2-3"/>
 
 <hr>
 <h3>&#9314; Create a Storage Account</h3>
 
-- Go to the search bar and search "storage account"
-- Select Create Storage Account
-- You will need to select the same resource group, the same region, and create a name for the storage group
-    - For this example, we will name the storage group "rglab1"
-    - Use the same resource group and region as step 2
-- Select Review, then Create
+- In the Search Box at the top header, type and select "Storage accounts".
+  - If "Storage accounts" is already listed on the front page, then you can simply click on it, rather than manually searching.
+  
+<img src="https://i.imgur.com/HMUaR98.jpg" height="700%" width="70%" alt="Azure Step 3-1"/>
+
+- Same with Resource Groups, click on "Create Storage account".
+
+<img src="https://i.imgur.com/sGDY2Im.jpg" height="700%" width="70%" alt="Azure Step 3-2"/>
+
+- Use the same resource group that was just created (this example uses **RG-01**).
+- Choose the same region (this example uses **(US) West US 3**).
+- Create a unique name for the storage account, for it cannot be a name already in use online (this example uses **saname01**)
+
+<img src="https://i.imgur.com/07sG8Z6.jpg" height="700%" width="70%" alt="Azure Step 3-3"/>
+
 
 <p align="center">
 <img src="https://i.imgur.com/zhb3GHZ.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
