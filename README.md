@@ -25,23 +25,27 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
     <div> It will not charge you, <b>but only for 30 days!</b>
 - Once completed, click on <a href="https://azure.microsoft.com/en-us/free/">Go to the Azure Portal</a> to be redirected to the Azure Dashboard.
 
-<p align="center">
 <img src="https://i.imgur.com/FklBT6F.jpg" height="64%" width="64%" alt="Azure Free Account"/>
-</p>
 <hr>
 
 <h3>&#9313; Create a Resource Group</h3>
 
 - In the Search Box at the top header, type and select "Resource groups".
   - If "Resource groups" is already listed on the front page, then you can simply click on it, rather than manually searching.
-- Click "Create" on the top left menu, OR simply press "Create resource group" in the center of the screen (assuming one doesn't exist yet).
-- Name your "Resource group" to whatever you want (this example uses RG-01), AND change the Region to a location that is closest to you (this example uses (US) West US 3)).
+ 
+<img src="https://i.imgur.com/gza489d.jpg" height="64%" width="64%" alt="Azure Free Account"/>
+
+- Click "Create" on the top left menu, OR simply press "Create resource group" in the center box (assuming one doesn't exist yet).
+
+<img src="https://i.imgur.com/5Jo1cEg.jpg" height="64%" width="64%" alt="Azure Free Account"/>
+
+- Name your "Resource group" to whatever you want (this example uses **RG-01**), AND change the "Region" to a location that is closest to you (this example uses **(US) West US 3**)).
 - Select "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
 - Click "Create".
 
-<p align="center">
-<img src="https://i.imgur.com/gza489d.jpg" height="70%" width="70%" alt="Azure Free Account"/>
-</p>
+
+<img src="https://i.imgur.com/BSiQM05.jpg" height="70%" width="70%" alt="Azure Free Account"/>
+
 <hr>
 <h3>&#9314; Create a Storage Account</h3>
 
