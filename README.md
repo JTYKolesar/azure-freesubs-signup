@@ -57,7 +57,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 - Choose the same region (this example uses **(US) West US 3**).
 - Skip everything else and click "Review", then "Create".
 <img src="https://i.imgur.com/07sG8Z6.jpg" height="100%" width="100%" alt="Azure Step 3-3"/>
-
+<hr>
 <h3>&#9315; Create a Virtual Machine</h3>
      
 - In the Search Box at the top header, type and select "Storage accounts".
@@ -65,31 +65,21 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/6DdH3MD.jpg" height="70%" width="70%" alt="Azure Step 4-1"/>
 
 - Click "Create", then select "Azure Virtual Machine"
-<img src="https://i.imgur.com/6DdH3MD.jpg" height="70%" width="70%" alt="Azure Step 4-1"/>
+<img src="https://i.imgur.com/tiC5aA4.jpg" height="70%" width="70%" alt="Azure Step 4-2"/>
 
-- You will need to select the same resource group, the same region, and create a name for the virtual machine
-    - For thise example, we will name the virtual machine "virtualmachine"
-    - Use the same resource group and region as steps 2 and 3
+- Use the same resource group (this example uses **RG-01**)
+- Name your virtual machine however you want (this example uses **virtualmachine01**)
+- Use the same region (this example uses **(US) West US 3**)
+- Choose your "Image" (this example uses **Windows 10 Pro, version 22H2 - x64 Gen2**)
+- Choose a "Size" (this example uses **Standard_E2s_v3 - 2 vcpus, 16 GiB memory**)
+- Create any username and password of your choice (this example uses the username: **vmuser**)
+  - Make sure NOT to forget these credentials.
+- Check the "Licensing" checkbox.
+- Click "Review + create".
+  - Once validation passed, click "Create".
+<img src="https://i.imgur.com/UaviYRo.jpg" height="70%" width="70%" alt="Azure Step 4-3"/>
 
- 
-
-
-
-* You will then need to select the image and disk size
-    - For image we will use Windows 10 Pro
-    - For size, select See All Sizes and select Standard D2as_v4
-* You will then need to make a username and password
-    - For username, we will use "labuser"
-    - Create your own password
-* Click the box under licensing and finally click Review + Create 
-
-
-<p align="center">
-<img src="https://i.imgur.com/p9UJXND.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/GHBDae0.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
- 
-     
-
+<hr>
 <h3>&#9316; Connect to the Virtual Machine via Remote Desktop</h3>
 
 - First, you will need to find the public IP address of your virtual machine
