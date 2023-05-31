@@ -4,7 +4,7 @@
 <p align="justify">
 Microsoft Azure is a powerful cloud platform that provides various tools and services like virtual machines, storage, AI, and easy project deployment. It helps businesses and individuals increase productivity, gain valuable insights from data, and effortlessly scale applications to meet their needs. With Azure, you can harness the potential of the cloud to drive innovation and achieve your goals with greater efficiency.
   
-<h1>Setup a Subscription, Resource, Storage and Virtual Machine in Azure</h1>
+<h1>Setup a Subscription, Resource Group, Storage Account, and Virtual Machine in Azure</h1>
 
 This guide is meant to demonstrate a step-by-step process for any beginner on how to create a FREE* Azure account, create a Resource Group, a Storage Account, build a Virtual Machine and how to connect to it using Remote Desktop.
 
