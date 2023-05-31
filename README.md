@@ -83,42 +83,31 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <hr>
 <h3>&#9316; Connect to the Virtual Machine via Remote Desktop</h3>
 
-- First, you will need to find the public IP address of your virtual machine
-   - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
-   - Copy the public IP address
+- Go to your Virtual Machine that was just created and COPY the public IP address (located on the right side).
+<img src="https://i.imgur.com/Cr02uvs.jpg" height="100%" width="100%" alt="Azure Step 5-1"/>
 
-<p align="center">
-<img src="https://i.imgur.com/T4Oc2RX.png" height="80%" width="80%" alt="Azure Free Account"/>
-
-* Mac Users 
-   - Download Microsoft Remote Desktop
-   - Open the application and click Add PC
-   - Paste the public IP address and select Add
-   - Double-click on the virtual machine and enter the username and password from step 4
-   - Select Continue
-   
-* Windows Users
-     - Open and use Remote Desktop
-     - Paste the public IP Address and select Connect
-     - Enter the username and password from step 4
-     - Select OK
+- Press the Windows Key (or Start Button), type and select "Remote Desktop Connection".
+- Input the virtual machine's Public IP Address and click Connect.
+- Enter the username and password from Step 4 above, then click OK.
   
-     
-     
- <p align="center">
-<img src="https://i.imgur.com/14pPOdv.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Og3LKyd.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+- Macintosh users will have to take a different approach:
+  - Download "Microsoft Remote Desktop", and Open it.
+  - Click Add PC", input the public IP address, then select "Add".
+  - Double-click on the virtual machine, then enter the username and password from Step 4 above.
+  - Select "Continue".
+<img src="https://i.imgur.com/rP1uKCe.jpg" height="64%" width="64%" alt="Azure Step 5-2"/>
+
+- A prompt will appear about the identity cannot be verified; just press "YES".
+<img src="https://i.imgur.com/3YxlS2G.jpg" height="64%" width="64%" alt="Azure Step 5-3"/>
+
+- Toggle any settings you want, then click "Accept".
+<img src="https://i.imgur.com/VlNH4O9.jpg" height="64%" width="64%" alt="Azure Step 5-4"/>
+
+🎊 CONGRATULATIONS! You have created your first virtual machine within Azure! 🎊
+<img src="https://i.imgur.com/PpLmQO7.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 
 
+<h3>NOTE:</h3>
 
-
-
-🎉Congratulations! You have created your first virtual machine within Azure!🎉
-
-<p align="center">
-<img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
-
-<h3>Tip</h3>
-
--  If you want to save your free $200 credits, make sure you delete ALL your resources and resource groups after finishing!    
+- To retain your free Azure credits, make sure you **DELETE ALL** your resources and resource groups after finishing!
   
