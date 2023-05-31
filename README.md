@@ -78,6 +78,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 - Click "Review + create".
   - Once validation passed, click "Create".
 <img src="https://i.imgur.com/UaviYRo.jpg" height="70%" width="70%" alt="Azure Step 4-3"/>
+<img src="https://i.imgur.com/mcix7TW.jpg" height="70%" width="70%" alt="Azure Step 4-4"/>
 
 <hr>
 <h3>&#9316; Connect to the Virtual Machine via Remote Desktop</h3>
