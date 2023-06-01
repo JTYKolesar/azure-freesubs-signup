@@ -6,7 +6,7 @@ Microsoft Azure is a powerful cloud platform that provides various tools and ser
   
 <h1>Setup a Subscription, Resource Group, Storage Account, and Virtual Machine in Microsoft Azure</h1>
 
-This guide is meant to demonstrate a step-by-step process for any beginner on how to create a FREE* Azure account, create a Resource Group, a Storage Account, build a Virtual Machine and how to connect to it using Remote Desktop.
+Here is a quick guide on how to create a FREE* Azure account, create a Resource Group, a Storage Account, build a Virtual Machine and how to connect to it using Remote Desktop -- the essentials to get started working with Azure.
 
 <h2>Requirements</h2>
 
