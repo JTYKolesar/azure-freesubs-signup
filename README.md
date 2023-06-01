@@ -115,12 +115,9 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 - Macintosh users will have to take a different approach:
   - Download "Microsoft Remote Desktop", and Open it.
-<p align="center">
-<img src="https://i.imgur.com/ZhWBhLs.png" height="50%" width="50%" alt="Azure Step 5-2-1"/>
-</p>
-
 - Click Add PC", input the public IP address, then select "Add".
 <p align="center">
+<img src="https://i.imgur.com/ZhWBhLs.png" height="50%" width="50%" alt="Azure Step 5-2-1"/>
 <img src="https://i.imgur.com/Mx1gHxa.png" height="50%" width="50%" alt="Azure Step 5-2-2"/>
 </p>
   
@@ -141,4 +138,4 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/PpLmQO7.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
 
-<h2>NOTE: To retain your free Azure credits, make sure you **DELETE ALL** your resources and resource groups after finishing!</h2>
+<h2>**To retain your free Azure credits, make sure you DELETE ALL your resources and resource groups after finishing!**</h2>
