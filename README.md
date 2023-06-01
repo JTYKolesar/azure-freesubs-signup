@@ -35,6 +35,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <p align="center">
 <img src="https://i.imgur.com/gza489d.jpg" height="64%" width="64%" alt="Azure Step 2-1"/>
 </p>
+
 - Click "Create" on the top left menu, OR simply press "Create resource group" in the center box (assuming one doesn't exist yet).
 <p align="center">
 <img src="https://i.imgur.com/5Jo1cEg.jpg" height="64%" width="64%" alt="Azure Step 2-2"/>
