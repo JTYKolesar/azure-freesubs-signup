@@ -38,7 +38,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 - Name your "Resource group" to whatever you want (this example uses **RG-01**).
 - Change the "Region" to a location that is closest to you (this example uses **(US) West US 3**).
-- Skip everything else and clicl "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
+- Skip everything else and click "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
 - Click "Create".
 <img src="https://i.imgur.com/BSiQM05.jpg" height="100%" width="100%" alt="Azure Step 2-3"/>
 
