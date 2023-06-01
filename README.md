@@ -60,8 +60,8 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <hr>
 <h3>&#9315; Create a Virtual Machine</h3>
      
-- In the Search Box at the top header, type and select "Storage accounts".
-  - If "Storage accounts" is already listed on the front page, then you can simply click on it, rather than manually searching.
+- In the Search Box at the top header, type and select "Virtual machines".
+  - If "Virtual machines" is already listed on the front page, then you can simply click on it, rather than manually searching.
 <img src="https://i.imgur.com/6DdH3MD.jpg" height="70%" width="70%" alt="Azure Step 4-1"/>
 
 - Click "Create", then select "Azure Virtual Machine"
