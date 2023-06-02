@@ -3,6 +3,7 @@
 </p>
 <p align="justify">
 <h1>Microsoft Azure</h1>
+
 This guide will demonstrate how to do the following:
   - Setup a FREE* Azure account
   - Create a Resource Group
