@@ -3,11 +3,6 @@
 </p>
 <p align="justify">
 <h1>Microsoft Azure</h1>
-
-Microsoft Azure is a powerful cloud platform that provides various tools and services like virtual machines, storage, AI, and easy project deployment. It helps businesses and individuals increase productivity, gain valuable insights from data, and effortlessly scale applications to meet their needs. With Azure, you can harness the potential of the cloud to drive innovation and achieve your goals with greater efficiency.
-
-<h2>Objective</h2>
-
 This guide will demonstrate how to do the following:
   - Setup a FREE* Azure account
   - Create a Resource Group
