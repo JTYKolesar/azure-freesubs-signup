@@ -141,4 +141,27 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/PpLmQO7.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
 
-<h2>**To retain your free Azure credits, make sure you DELETE ALL your resources and resource groups after finishing!**</h2>
+<h3>BONUS: Delete All Resources In Azure</h3>
+
+_To retain your free Azure credits as much as possible, we have to make sure we DELETE ALL resources after every project._
+- From Azure, go to Resource Groups, select any Resource listed, then click "Delete resource group".
+- Type the resource group name to confirm deletion (faster to copy/paste the name).
+- Then click "Delete".
+_Repeat these steps for each and every resource group listed until all are deleted_
+<p align="center">
+<img src="https://i.imgur.com/Yedg9Cl.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
+</p>
+  
+_If you have any created virtual machines:_
+- From Azure, go to "Virtual Machines", select any that are listed, the click "Delete".
+- Checkmark the box "I have read and understand..."
+- Then click "Delete".
+_Repeat these steps until all listed are deleted._
+<p align="center">
+<img src="https://i.imgur.com/T8VFNCO.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
+</p>
+  <p align="center">
+<img src="https://i.imgur.com/dkuz7TD.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
+</p>
+
+<h1>TUTORIAL END.<br /></h1>
