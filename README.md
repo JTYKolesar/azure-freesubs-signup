@@ -159,9 +159,12 @@ _If you have any created virtual machines:_
 _Repeat these steps until all listed are deleted._
 <p align="center">
 <img src="https://i.imgur.com/T8VFNCO.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
-</p>
-  <p align="center">
 <img src="https://i.imgur.com/dkuz7TD.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
 
+_Best way to check if all resources are gone is going to "All resources" from the Portal Home page_
+<p align="center">
+<img src="https://i.imgur.com/gVnbWJS.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
+</p>
+  
 <h1>TUTORIAL END.<br /></h1>
