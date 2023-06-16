@@ -4,7 +4,7 @@
 <p align="justify">
 <h1>Microsoft Azure</h1>
 
-This guide will demonstrate how to do the following:
+This demonstration will show how to do the following:
   - Setup a FREE* Azure account
   - Create a Resource Group
   - Create a Storage Account
@@ -167,4 +167,4 @@ _Best way to check if all resources are gone is going to "All resources" from th
 <img src="https://i.imgur.com/gVnbWJS.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
   
-<h1>TUTORIAL END.<br /></h1>
+<h1>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)<br /></h1>
