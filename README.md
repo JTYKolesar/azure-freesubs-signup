@@ -140,6 +140,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <p align="center">
 <img src="https://i.imgur.com/PpLmQO7.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
+<hr>
 
 <h3>BONUS: Delete All Resources In Azure</h3>
 
